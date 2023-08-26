@@ -1,4 +1,3 @@
-## Differences
 ## Shared Components
 
 The architecture of the original transformer used in NLP tasks and that of the Vision Transformer (ViT) used in computer vision tasks share many fundamental components, but there are also important differences to accommodate the distinct characteristics of text and images. Here's a breakdown of the similarities and differences:
@@ -18,6 +17,8 @@ Both transformers and ViTs utilize positional encodings to provide information a
 ### Feedforward Neural Networks
 
 Both architectures include feedforward neural networks to process the outputs of the attention mechanisms and generate refined representations.
+
+## Differences
 
 ### Input Data
 
