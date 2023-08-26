@@ -3,7 +3,7 @@ Transformers are an innovative kind of deep learning architecture used in Natura
 
 # What is Embedding?
 
-Before delving into the detail of transformer architecture, it may be a good idea to establish a foundation on the **Embedding**. I found this video by Jay Allamar about [Word2vec algorithm](https://www.youtube.com/watch?v=ISPId9Lhc1g)
+Before delving into the details of transformer architecture, it may be a good idea to establish a foundation on the **Embedding**. I found this video by Jay Allamar about [Word2vec algorithm](https://www.youtube.com/watch?v=ISPId9Lhc1g). About this video: The concept of word embeddings is a central one in language processing (NLP). It's a method of representing words as numerically -- as lists of numbers that capture their meaning. Word2vec is an algorithm (a couple of algorithms, actually) of creating word vectors which helped popularize this concept. In this video, Jay take you in a guided tour of The Illustrated Word2Vec, an article explaining the method and how it came to be developed
 # Transformers Architecture: Simplified Explanation
 
 Transformers introduce a cutting-edge architecture comprising two main elements: the **encoder** and the **decoder**.
