@@ -18,3 +18,32 @@ The decoder generates output sequences, like translations, based on the encoder'
 For tasks like translation, these components collaborate. During the learning process, the model adjusts its parameters to align its output with the desired result.
 
 To sum up, transformers excel at capturing word relationships and context, making them invaluable for various language tasks. They harness attention, parallel processing, and refinement steps to truly excel in this domain.
+
+
+## Transformer Architecture Components
+
+### Encoder
+
+The **encoder** handles the input sequence, breaking it down into meaningful representations through a series of layers:
+
+- **Self-Attention Mechanism:** This core component allows the model to weigh the importance of each word relative to all others, capturing relationships and context regardless of position.
+
+- **Multi-Head Attention:** The encoder employs multiple parallel self-attention mechanisms, or "heads," capturing diverse relationships and nuances.
+
+- **Positional Encoding:** To account for word order, positional encoding is added to input embeddings, conveying word position information.
+
+- **Feedforward Neural Network:** After attention stages, a feedforward neural network refines word representations using captured context.
+
+### Decoder
+
+The **decoder** generates the output sequence based on the processed input sequence:
+
+- **Self-Attention Mechanism (Decoder-side):** This mechanism enables the decoder to focus on its own generated output, avoiding undue attention to irrelevant input parts.
+
+- **Multi-Head Attention (Encoder-Decoder Attention):** The decoder aligns its output with relevant parts of the input by attending to the encoder's output, crucial for tasks like translation.
+
+- **Positional Encoding:** Similar to the encoder, the decoder employs positional encoding to understand word order in generated sequences.
+
+- **Feedforward Neural Network:** The decoder's feedforward network refines generated output using both input sequence and preceding words.
+
+The transformer architecture excels at capturing context and dependencies in sequences, making it highly effective for various NLP tasks. The self-attention mechanisms, multi-head attention, and feedforward networks collectively empower transformers to understand relationships, context, and nuances in data.
