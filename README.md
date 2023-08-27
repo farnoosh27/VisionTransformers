@@ -40,7 +40,7 @@ The **decoder** generates the output sequence based on the processed input seque
 
 - **Self-Attention Mechanism (Decoder-side):** This mechanism enables the decoder to focus on its own generated output, avoiding undue attention to irrelevant input parts.
 
-- **Multi-Head Attention (Encoder-Decoder Attention):** The decoder aligns its output with relevant parts of the input by attending to the encoder's output, crucial for tasks like translation.
+- **Multi-Head Attention (Encoder-Decoder Attention):** The decoder aligns its output with relevant parts of the input by attending to the encoder's output, which is crucial for tasks like translation.
 
 - **Positional Encoding:** Similar to the encoder, the decoder employs positional encoding to understand word order in generated sequences.
 
