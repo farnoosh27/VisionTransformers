@@ -17,7 +17,7 @@ The decoder generates output sequences, like translations, based on the encoder'
 
 For tasks like translation, these components collaborate. During the learning process, the model adjusts its parameters to align its output with the desired result.
 
-To sum up, transformers excel at capturing word relationships and context, making them invaluable for various language tasks. They harness attention, parallel processing, and refinement steps to truly excel in this domain.
+To sum up, transformers excel at capturing word relationships and context, making them invaluable for various language tasks. They harness attention, parallel processing, and refinement steps to excel in this domain truly.
 
 
 ## Transformer Architecture Components
