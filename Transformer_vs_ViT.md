@@ -1,5 +1,4 @@
 ## Shared Components
-
 The architecture of the original transformer used in NLP tasks and that of the Vision Transformer (ViT) used in computer vision tasks share many fundamental components, but there are also important differences to accommodate the distinct characteristics of text and images. Here's a breakdown of the similarities and differences:
 
 ### Self-Attention Mechanism
