@@ -19,7 +19,6 @@ Both transformers and ViTs utilize positional encodings to provide information a
 Both architectures include feedforward neural networks to process the outputs of the attention mechanisms and generate refined representations.
 
 ## Differences
-
 ### Input Data
 
 - **Transformer:** In NLP, the input data comprises sequences of words or tokens, which are often sequential and linguistically structured.
