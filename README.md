@@ -19,7 +19,6 @@ For tasks like translation, these components collaborate. During the learning pr
 
 To sum up, transformers excel at capturing word relationships and context, making them invaluable for various language tasks. They harness attention, parallel processing, and refinement steps to excel in this domain truly.
 
-
 ## Transformer Architecture Components
 
 ### Encoder
