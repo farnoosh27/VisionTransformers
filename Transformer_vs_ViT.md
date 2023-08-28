@@ -47,3 +47,4 @@ Both architectures include feedforward neural networks to process the outputs of
 While both transformers and ViTs have a common foundation, they adapt their architecture to accommodate the unique characteristics of text and images, respectively. The utilization of similar components allows ViTs to process images effectively using the transformer framework, while accommodating the specific properties of visual data.
 
 ## Was the same transformer architecture used for ViT?
+Yes
