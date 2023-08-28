@@ -12,7 +12,6 @@ Transformers introduce a cutting-edge architecture comprising two main elements:
 The encoder handles input sequences, such as sentences. It resembles the comprehension component. It evaluates the importance of each word relative to the others. This process occurs in parallel multiple times, considering word positions. Following this, it enhances the understanding of each individual word.
 
 ## Decoder
-
 The decoder generates output sequences, like translations, based on the encoder's comprehension. It takes into account its own words and the input sequence. With attention to word importance and positions, it constructs the final output.
 
 For tasks like translation, these components collaborate. During the learning process, the model adjusts its parameters to align its output with the desired result.
