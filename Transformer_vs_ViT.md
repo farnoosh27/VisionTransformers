@@ -48,3 +48,5 @@ While both transformers and ViTs have a common foundation, they adapt their arch
 
 ## Was the same transformer architecture used for ViT?
 Yes
+
+## Comparision of a CNN and a ViT
