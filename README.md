@@ -7,7 +7,6 @@ Before delving into the details of transformer architecture, it may be a good id
 
 Transformers introduce a cutting-edge architecture comprising two main elements: the **encoder** and the **decoder**.
 ## Encoder
-
 The encoder handles input sequences, such as sentences. It resembles the comprehension component. It evaluates the importance of each word relative to the others. This process occurs in parallel multiple times, considering word positions. Following this, it enhances the understanding of each individual word.
 
 ## Decoder
