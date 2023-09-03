@@ -36,7 +36,6 @@ The **encoder** handles the input sequence, breaking it down into meaningful rep
 - **Positional Encoding:** To account for word order, positional encoding is added to input embeddings, conveying word position information.
 
 - **Feedforward Neural Network:** After attention stages, a feedforward neural network refines word representations using captured context.
-
 ### Decoder
 
 The **decoder** generates the output sequence based on the processed input sequence:
