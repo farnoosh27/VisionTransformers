@@ -45,10 +45,10 @@ Both architectures include feedforward neural networks to process the outputs of
 - **Transformer:** In NLP, the final output layer depends on the task, such as classification or generation.
 - **ViT:** In computer vision, the final output layer is often a classification layer due to image classification tasks.
 
-While both transformers and ViTs have a common foundation, they adapt their architecture to accommodate the unique characteristics of text and images, respectively. The utilization of similar components allows ViTs to process images effectively using the transformer framework, while accommodating the specific properties of visual data.
+While both transformers and ViTs have a common foundation, they adapt their architecture to accommodate the unique characteristics of text and images, respectively. The utilization of similar components allows ViTs to process images effectively using the transformer framework while accommodating the specific properties of visual data.
 
 ## Was the same transformer architecture used for ViT?
-Yes. However, for the ViT only the endcoder part is used. 
+Yes. However, for the ViT only the encoder part is used. 
 
 ## Comparision of a CNN and a ViT
 ### is it worth it?
