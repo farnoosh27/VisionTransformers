@@ -9,7 +9,7 @@
 
 ## What are transformers in the field of NLP?
 
-Transformers are an innovative kind of deep learning architecture used in Natural Language Processing. They stand out in handling sequences, like sentences, by employing self-attention mechanisms to grasp word relationships. This enables them to comprehend context without being limited by word order. Transformers consist of elements like multi-head attention, positional encoding, and feedforward networks. They're applied in models such as BERT for contextual word understanding, GPT for text creation, and T5 for diverse tasks. Transformers have transformed NLP and surpassed previous models by better-grasping language context.
+Transformers are an innovative kind of deep learning architecture used in Natural Language Processing. They stand out in handling sequences, like sentences, by employing self-attention mechanisms to grasp word relationships. This enables them to comprehend context without being limited by word order. Transformers consist of elements like multi-head attention, positional encoding, and feedforward networks. They're applied in models such as BERT for contextual word understanding, GPT for text creation, and T5 for diverse tasks. Transformers have transformed NLP and surpassed previous models by better grasping language context.
 
 ## What is Embedding?
 
