@@ -2,7 +2,7 @@
 
 | Paper                                                     | Method            | Domain                        | Year       |
 |-----------------------------------------------------------|-------------------|-------------------------------|------------|
-| Attention is all you need                               | Transformer       | Natural Language Processing  | 2017       |
+| [Attention is all you need](https://arxiv.org/abs/1706.03762)                               | Transformer       | Natural Language Processing  | 2017       |
 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Vision Transformer | Computer Vision               | 2020/2021  |
 
 ## Application of transformers in computer vision
