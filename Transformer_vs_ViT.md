@@ -52,4 +52,4 @@ Yes. However, for the ViT only the encoder part is used.
 
 ## Comparision of a CNN and a ViT
 ### is it worth it?
-## What is a CLS token?
+
