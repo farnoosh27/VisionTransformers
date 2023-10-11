@@ -51,5 +51,5 @@ While both transformers and ViTs have a common foundation, they adapt their arch
 Yes. However, for the ViT only the encoder part is used. 
 
 ## Comparision of a CNN and a ViT
-### is it worth it?
+### Is it worth it?
 
