@@ -1,5 +1,4 @@
 ## History
-
 | Paper                                                     | Method            | Domain                        | Year       |
 |-----------------------------------------------------------|-------------------|-------------------------------|------------|
 | [Attention is all you need](https://arxiv.org/abs/1706.03762)                               | Transformer       | Natural Language Processing  | 2017       |
