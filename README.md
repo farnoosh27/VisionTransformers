@@ -4,7 +4,6 @@
 | [Attention is all you need](https://arxiv.org/abs/1706.03762)                               | Transformer       | Natural Language Processing  | 2017       |
 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | Vision Transformer | Computer Vision               | 2020/2021  |
 
-
 ## What are transformers in the field of NLP?
 Transformers are an innovative kind of deep learning architecture used in Natural Language Processing. They stand out in handling sequences, like sentences, by employing self-attention mechanisms to grasp word relationships. This enables them to comprehend context without being limited by word order. Transformers consist of elements like multi-head attention, positional encoding, and feedforward networks. They're applied in models such as BERT for contextual word understanding, GPT for text creation, and T5 for diverse tasks. Transformers have transformed NLP and surpassed previous models by better grasping language context.
 
